@@ -104,13 +104,10 @@ Tried to apply Jekyll Theme to The Bootstrap Template I've been using in CodePen
 * 2016-12-21 some GitHub Essentials with Mozilla Science Lab https://joeyklee.github.io/friendly-github-intro/guides/github-essentials/
  
  
-* 22-12-22 Forked Commitmas and Pybluedot got NASA authentication key
-A lesson in Markdown http://www.markdowntutorial.com/lesson/1/
+ 
+ * 2016-12-22 Forked Commitmas and Pybluedot got NASA authentication key
+A lesson in Markdown http://www.markdowntutorial.com/lesson/1/  
 
-* 23-12-2016 GotGitHub Pages Theme to work by deleting other files in the repo that seemed to be getting in the way.
-
-
-
-
-
-
+* 2016-12-23 GotGitHub Pages Theme to work by deleting other files in the repo that seemed to be getting in the way.
+### First Day of #Commitmakkuh
+* 2016-12-24 markdown and update readme.  (on Android)
