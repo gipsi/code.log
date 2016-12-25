@@ -25,15 +25,14 @@
 
 * 2016-12-06 12 most retweeted programming quotes
 
-* 2016-12-07 http://fascinated-kitty.gomix.me/
-
+* 2016-12-07 (http://fascinated-kitty.gomix.me/) 
 * 2016-12-08 what is gitignore?
 
 * 2016-12-09 git-electron
 
 Some gaps need filling in here! 10.12.2016 #javascript30 challenge 1. CSS + JS Clock
 
-* 2016-12-10 forking spoon-knife repository, posh~git CLI, made a github page ... https://github.com/gipsi/gipsi.github.io which is where Ill
+* 2016-12-10 forking spoon-knife repository, posh~git CLI, made a github page ... (https://github.com/gipsi/gipsi.github.io)  which is where Ill
 
 * 2016-12-11 #javascript30 challenge 2. CSS + JS Clock
 
@@ -49,8 +48,7 @@ Some gaps need filling in here! 10.12.2016 #javascript30 challenge 1. CSS + JS C
 
 joining Commitmas Challenge
 
-https://github.com/commitmas/commitmas-3-return-of-commitmas#beginner
-
+(https://github.com/commitmas/commitmas-3-return-of-commitmas#beginner) 
 <<<<<<< HEAD
 
 changed this file to .md
@@ -86,11 +84,9 @@ modified: hello-git (new commits, modified content)
 
 Part of my problem stemmed I think from changing this readme file from .txt to .md and then deleting the .txt from the remote repository. There was a conflict "further up the working tree" which I spent some time trying to fix (an hour++) eventually reinstating the file seemed the easier option. Lesson learned: be careful what you commit.
 
-*  2016-12-18 Decided to change the way I write dates with the help of this article: http://www.thetechnicalgeekery.com/2013/06/yyyy-mm-dd-the-best-way-to-write-dates/
+*  2016-12-18 Decided to change the way I write dates with the help of this article: (http://www.thetechnicalgeekery.com/2013/06/yyyy-mm-dd-the-best-way-to-write-dates/) 
 
-
-Doing more exercises in the Git Shell ... still not happening with commiting from there, but I am learning to navigate better after some practice with Appendix A: Command Line Crash Course (part of Learn Python the Hard Way by Zed Shaw) https://learnpythonthehardway.org/book/appendixa.html
-
+Doing more exercises in the Git Shell ... still not happening with commiting from there, but I am learning to navigate better after some practice with Appendix A: Command Line Crash Course (part of Learn Python the Hard Way by Zed Shaw) (https://learnpythonthehardway.org/book/appendixa.html) 
 
 *  2016-12-19 Set Jekyll Theme Leap Day in GitHub Pages for gipsi.github.io
 +another daily commit for Commitmas-3
@@ -101,13 +97,19 @@ Doing more exercises in the Git Shell ... still not happening with commiting fro
 Tried to apply Jekyll Theme to The Bootstrap Template I've been using in CodePen. Really I just want to get get pages up and running and not sure which file in the repository it uses.
 24ways.
 
-* 2016-12-21 some GitHub Essentials with Mozilla Science Lab https://joeyklee.github.io/friendly-github-intro/guides/github-essentials/
+* 2016-12-21 some GitHub Essentials with Mozilla Science Lab(https://joeyklee.github.io/friendly-github-intro/guides/github-essentials/) 
  
  
  
  * 2016-12-22 Forked Commitmas and Pybluedot got NASA authentication key
-A lesson in Markdown http://www.markdowntutorial.com/lesson/1/  
+A lesson in Markdown (http://www.markdowntutorial.com/lesson/1/)  
 
 * 2016-12-23 GotGitHub Pages Theme to work by deleting other files in the repo that seemed to be getting in the way.
+
+
 ### First Day of #Commitmakkuh
+
+
 * 2016-12-24 markdown and update readme.  (on Android)
+
+* 2016-12-25 Put brackets round links. A commit. 
