@@ -32,7 +32,7 @@
 
   Some gaps need filling in here! 10.12.2016 #javascript30 challenge 1. CSS + JS Clock
 
-* 2016-12-10 forking spoon-knife repository, posh~git CLI, [made a github page] ... (https://github.com/gipsi/gipsi.github.io)  which is where Ill
+* 2016-12-10 forking spoon-knife repository, posh~git CLI, [made a github page](https://github.com/gipsi/gipsi.github.io)  which is where Ill
 
 * 2016-12-11 #javascript30 challenge 2. CSS + JS Clock
 
@@ -46,9 +46,7 @@
 
 * 2016-12-15 #javascript30 challenge 6. Ajax Type Head
 
-    joining [Commitmas Challenge]
-
-    (https://github.com/commitmas/commitmas-3-return-of-commitmas#beginner) 
+    joining [Commitmas Challenge](https://github.com/commitmas/commitmas-3-return-of-commitmas#beginner) 
     <<<<<<< HEAD
 
     changed this file to .md from .txt
