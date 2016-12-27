@@ -51,7 +51,7 @@
 
     changed this file to .md from .txt
 
-* 2016-12-16 today I'm reading web book by [@adactio](https://resilientwebdesign.com/)about making websites   
+* 2016-12-16 today I'm reading web book by [Jeremy Kieth](https://resilientwebdesign.com/) about making websites   
   making a commit for #commitmas on Android with laggy WiFi is tricky and time consuming but possible :ok_woman:
 
   git push origin/master
