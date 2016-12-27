@@ -124,4 +124,9 @@
 * 2016-12-26 Commitmakkuh day 3. No Commits today but I did read up on some Git essentials on my phone.
 
 * 2016-12-27 Commitmakkuh day 4. Sorting out this page with the help of [this page about Markdown](http://daringfireball
-  .net/projects/markdown/dingus) 
+  .net/projects/markdown/dingus) (also converts it rather usefully to HTML).
+  Switched Themes a few times now I can do it.  Got links to work (the brackets have to _RIGHT_ be next to each other). 
+  Details!!!
+  I always end up reading a bit of background stuff to what I'm learning.  I weas quite sad to read about [Aaron Swartz]
+  (https://en.wikipedia.org/wiki/Aaron_Swartz) who with [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) brought
+  us [Markdown](http://www.aaronsw.com/weblog/001189)
