@@ -51,12 +51,14 @@
 
     changed this file to .md from .txt
 
-* 2016-12-16 today I'm reading web book by @adactio about making websitesm   making a commit for #commitmas on Android with laggy WiFi is tricky and time consuming but possible :ok_woman:
+* 2016-12-16 today I'm reading web book by [@adactio](https://resilientwebdesign.com/)about making websites   
+  making a commit for #commitmas on Android with laggy WiFi is tricky and time consuming but possible :ok_woman:
 
   git push origin/master
 
 
-* 2016-12-17 Got rather lost with posh-git terminal. git bash, git-it-electron. Consulted Stack Overflow and used git mergetool and git gui. ... and thank you Git! (For giving me this helpful notepad text message)
+* 2016-12-17 Got rather lost with posh-git terminal. git bash, git-it-electron. Consulted Stack Overflow and used git
+  mergetool and git gui. ... and thank you Git! (For giving me this helpful notepad text message)
 
     Please enter the commit message for your changes. Lines starting
 
@@ -82,10 +84,10 @@
     the remote repository. There was a conflict "further up the working tree" which I spent some time trying to fix (an     hour++)   
     eventually reinstating the file seemed the easier option. Lesson learned: be careful what you commit.
 
-*  2016-12-18 Decided to change the way I write dates with the help of [this article:] (http://www.thetechnicalgeekery.com/2013/06/yyyy-mm-dd-the-best-way-to-write-dates/) 
+*  2016-12-18 Decided to change the way I write dates with the help of [this article:](http://www.thetechnicalgeekery.com/2013/06/yyyy-mm-dd-the-best-way-to-write-dates/) 
 
   Doing more exercises in the Git Shell ... still not happening with commiting from there, but I am learning to navigate 
-  better after some practice with Appendix A: Command Line Crash Course part of [Learn Python the Hard Way by Zed Shaw] (https://learnpythonthehardway.org/book/appendixa.html) 
+  better after some practice with Appendix A: Command Line Crash Course part of [Learn Python the Hard Way by Zed Shaw](https://learnpythonthehardway.org/book/appendixa.html) 
 
 *  2016-12-19 Set Jekyll Theme Leap Day in GitHub Pages for gipsi.github.io
   +another daily commit for Commitmas-3
@@ -97,13 +99,13 @@
    and running and not sure which file in the repository it uses.
    24ways.
 
-* 2016-12-21 some [GitHub Essentials with Mozilla Science Lab] (https://joeyklee.github.io/friendly-github-intro/guide
+* 2016-12-21 some [GitHub Essentials with Mozilla Science Lab](https://joeyklee.github.io/friendly-github-intro/guide
   /github-essentials/) 
  
  
  
  * 2016-12-22 Forked Commitmas and Pybluedot got NASA authentication key and ...
-   [A lesson in Markdown] (http://www.markdowntutorial.com/lesson/1/)  
+   [A lesson in Markdown](http://www.markdowntutorial.com/lesson/1/)  
 
 * 2016-12-23 GotGitHub Pages Theme to work by deleting other files in the repo that seemed to be getting in the way.
 
@@ -117,5 +119,5 @@
 
 * 2016-12-26 Commitmakkuh day 3. No Commits today but I did read up on some Git essentials on my phone.
 
-* 2016-12-27 Commitmakkuh day 4. Sorting out this page with the help of [this page about Markdown] (http://daringfireball
+* 2016-12-27 Commitmakkuh day 4. Sorting out this page with the help of [this page about Markdown](http://daringfireball
   .net/projects/markdown/dingus) 
