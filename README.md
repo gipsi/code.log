@@ -125,7 +125,7 @@
 
 * 2016-12-27 Commitmakkuh day 4. Sorting out this page with the help of [this page about Markdown](http://daringfireball
   .net/projects/markdown/dingus) (also converts it rather usefully to HTML).
-  Switched Themes a few times now I can do it.  Got links to work (the brackets have to _RIGHT_ be next to each other). 
+  Switched Themes a few times now I can do it.  Got links to work (the brackets have to be _RIGHT_ next to each other). 
   Details!!!
   I always end up reading a bit of background stuff to what I'm learning.  I weas quite sad to read about [Aaron Swartz]
   (https://en.wikipedia.org/wiki/Aaron_Swartz) who with [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) brought
