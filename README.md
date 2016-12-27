@@ -97,7 +97,7 @@ Doing more exercises in the Git Shell ... still not happening with commiting fro
 Tried to apply Jekyll Theme to The Bootstrap Template I've been using in CodePen. Really I just want to get get pages up and running and not sure which file in the repository it uses.
 24ways.
 
-* 2016-12-21 some GitHub Essentials with Mozilla Science Lab(https://joeyklee.github.io/friendly-github-intro/guides/github-essentials/) 
+* 2016-12-21 some [GitHub Essentials with Mozilla Science Lab] (https://joeyklee.github.io/friendly-github-intro/guides/github-essentials/) 
  
  
  
