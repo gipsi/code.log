@@ -136,7 +136,9 @@
      Catching up with Javascript30 challenge 
      
      Some more lessons in Markdown: **_This is bold and italic_**
-     # Header 1
+     
+     
+     # Header one
      ## Header 2
      ### Header 3
      #### Header 4
