@@ -130,3 +130,8 @@
   I always end up reading a bit of background stuff to what I'm learning.  I am quite sad to read about 
   [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) who with [John Gruber](https://en.wikipedia.
   org/wiki/John_Gruber) brought us [Markdown](http://www.aaronsw.com/weblog/001189)
+  
+  *  2016-12-28 Commitmakkuh day 5. Another update for this readme. Preparations to start #100DayOfCode on Jan 3rd.
+     this time I'll keep be able to write about it on Github yay!!!
+     Catching up with Javascript30 challenge 
+     
