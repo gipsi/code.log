@@ -138,10 +138,10 @@
      Some more lessons in Markdown: **_This is bold and italic_**
      
      
-     # Header one
-     ## Header 2
-     ### Header 3
-     #### Header 4
-     ##### Header 5
-     ###### Header 6
+     #Header one
+     ##Header two
+     ###Header three
+     ####Header four
+     #####Header five
+     ######Header six
      
