@@ -134,4 +134,12 @@
   *  2016-12-28 Commitmakkuh day 5. Another update for this readme. Preparations to start #100DayOfCode on Jan 3rd.
      this time I'll keep be able to write about it on Github yay!!!
      Catching up with Javascript30 challenge 
+     
+     Some more lessons in Markdown: **_This is bold and italic_**
+     # Header 1
+     ## Header 2
+     ### Header 3
+     #### Header 4
+     ##### Header 5
+     ###### Header 6
      
