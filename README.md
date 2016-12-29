@@ -131,7 +131,7 @@
   [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz) who with [John Gruber](https://en.wikipedia.
   org/wiki/John_Gruber) brought us [Markdown](http://www.aaronsw.com/weblog/001189)
   
-  *  2016-12-28 Commitmakkuh day 5. Another update for this readme. Preparations to start #100DayOfCode on Jan 3rd.
+*  2016-12-28 Commitmakkuh day 5. Another update for this readme. Preparations to start #100DayOfCode on Jan 3rd.
      this time I'll keep be able to write about it on Github yay!!!
      Catching up with Javascript30 challenge 
      
@@ -139,9 +139,14 @@
      
      
 # Header one 
-     ##  Header two
-     ###  Header three
-     ####  Header four
-     #####  Header five
-     ######  Header six
+## Header two
+###  Header three
+####  Header four
+#####  Header five
+######  Header six
+
+* 2016-12-29 Commitmakkuh Day 6 *finally* worked out that
+  Hash symbol must be at the start of the line with no spaces 
+  To make a heading.
+     
      
