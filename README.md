@@ -148,5 +148,7 @@
 * 2016-12-29 Commitmakkuh Day 6 *finally* worked out that
   Hash symbol must be at the start of the line with no spaces 
   To make a heading.
+  
+   another update: Hash displayig correctly on github, but not with Jeckyll templates.
      
      
