@@ -151,4 +151,4 @@
   
    another update: Hash displayig correctly on github, but not with Jeckyll templates.
      
-     
+* 2016-12-30  commitmakkuh day  7   Programming and design     “Should a Programmer Learn to Design?” @ux_app https://hackernoon.com/should-a-programmer-learn-to-design-5101e1bd1025
