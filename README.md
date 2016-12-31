@@ -152,3 +152,34 @@
    another update: Hash displayig correctly on github, but not with Jeckyll templates.
      
 * 2016-12-30  commitmakkuh day  7   Programming and design     “Should a Programmer Learn to Design?” @ux_app https://hackernoon.com/should-a-programmer-learn-to-design-5101e1bd1025
+
+* 2016-12-31 Commitmakkuh day 8
+
+Last day of 2016 has been a journey.  Daylight hours involved sorting out guttering and drainage pipes, being chased by wild horses and moving firewood logs.  
+
+The weather - dull and damp, slightly above freezing with fog threatening to close in over a murky sunset.
+
+When I got a WiFi connection I sat down with a cup of tea and my phone, caught up with emails messages and chat which left me mulling over thoughts about meetups with other learners.  Being a mature learner in a rural location with a low travelling budget usually prevents me from entertaining the idea for long, but the humor and positivity of this article “My 411 days’ Journey to FCC Front End Certification — 10 days after I turned 74.” @maheshupadhyaya https://medium.com/@mahesh_u/my-411-days-journey-to-fcc-front-end-certification-7411597feabd by  Mahesh got my attention yesterday and today I derected some resonance in my mind of the benefits.  
+
+After navigating to #Commitmas repo to review challenge I went to YouTube to choose  a vBrownBag video to learn some GitHub.  I picked Contributing to OpenSource Projects. https://youtu.be/aU0HlcadLbk then on to explore GitHub Explore https://github.com/explore where I was drawn to Vanessa Mozzadrellas Project about the hugely increased availability of online educational resources.  This led me to https://github.com/mozzadrella/Informal-Tech-Project and then to P2PU a Peer to peer University with loads of Free Courses, tools and contacts for Facilitators and learners.  https://www.p2pu.org/en/about/ 
+
+https://learningcircles.p2pu.org/en/courses/
+
+The site got me once again considering meetups, learning circles and online meeting tools.  
+
+Tools to set up a website for a learning circle seems worth looking into as well as  Udacity course How to Make A Website with Html and CSS, and an *Acumen course on Storytelling.
+
+I'll finish up today with some words from
+Jacqueline Novogratz video:
+
+ "Commit to something bigger than yourself and you'll find it'll set you free ..."
+
+https://www.good.is/articles/good-advice-jacqueline-novogratz
+
+
+(otherwise I'll never get to the end of the vBrownBag video)
+
+
+
+
+
