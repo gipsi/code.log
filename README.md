@@ -183,7 +183,7 @@ https://www.good.is/articles/good-advice-jacqueline-novogratz
 
 # GoodBye 2016
 
-I'll remember you for what came to be your  many sad endings,for me  the last days I'd have with some very dear old friends.
+I'll remember you for what came to be your  many sad endings,for me  the last days I'd have with some very dear friends.
 
 * *Happy New Year* _GitHub_
 
