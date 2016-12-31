@@ -178,8 +178,6 @@ https://www.good.is/articles/good-advice-jacqueline-novogratz
 
 
 (otherwise I'll never get to the end of the vBrownBag video)
-
-
-
-
-
+* The loud explosive sound of fireworks is a prompt ...
+## GoodBye 2016
+*Happy New Year* _GitHub_
