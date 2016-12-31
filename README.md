@@ -178,6 +178,15 @@ https://www.good.is/articles/good-advice-jacqueline-novogratz
 
 
 (otherwise I'll never get to the end of the vBrownBag video)
+
 * The loud explosive sound of fireworks is a prompt ...
-## GoodBye 2016
-*Happy New Year* _GitHub_
+
+# GoodBye 2016
+
+I'll remember you for what came to be your  many sad endings,for me  the last days I'd have with some very dear old friends.
+
+* *Happy New Year* _GitHub_
+
+# Welcome 2017
+
+I look forward to your new beginnings, new adventures, new stories and new life.
