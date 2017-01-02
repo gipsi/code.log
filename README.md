@@ -185,7 +185,7 @@ I'll remember you for what came to be your  many sad endings,for me  the last
 
 # Welcome 2017
 
-I look forward to your new beginnings, new adventures, new stories and new life.
+I look forward to your new beginnings, new adventures and new stories.
 
 2017-01-01 A day off for a walk in the rain ... *A Holiday*
 
