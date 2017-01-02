@@ -172,7 +172,7 @@ Tools to set up a website for a learning circle seems worth looking into as well
 I'll finish up today with some words from
 Jacqueline Novogratz video:
 
- "Commit to something bigger than yourself and you'll find it'll set you free ..."
+ > "Commit to something bigger than yourself and you'll find it'll set you free ..."
 
 https://www.good.is/articles/good-advice-jacqueline-novogratz
 
