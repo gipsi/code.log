@@ -149,9 +149,9 @@
   Hash symbol must be at the start of the line with no spaces 
   To make a heading.
   
-   another update: Hash displayig correctly on github, but not with Jeckyll templates.
+   another update: Hash displayig correctly on github, but not with Jekyll templates.
      
-* 2016-12-30  commitmakkuh day  7   Programming and design     “Should a Programmer Learn to Design?” @ux_app https://hackernoon.com/should-a-programmer-learn-to-design-5101e1bd1025
+* 2016-12-30  commitmakkuh day  7   Programming and design     [“Should a Programmer Learn to Design?” @ux_app](https://hackernoon.com/should-a-programmer-learn-to-design-5101e1bd1025)
 
 * 2016-12-31 Commitmakkuh day 8
 
@@ -161,23 +161,19 @@ The weather - dull and damp, slightly above freezing with fog threatening to clo
 
 When I got a WiFi connection I sat down with a cup of tea and my phone, caught up with emails messages and chat which left me mulling over thoughts about meetups with other learners.  Being a mature learner in a rural location with a low travelling budget usually prevents me from entertaining the idea for long, but the humor and positivity of this article [“My 411 days’ Journey to FCC Front End Certification — 10 days after I turned 74.” @maheshupadhyaya](https://medium.com/@mahesh_u/my-411-days-journey-to-fcc-front-end-certification-7411597feabd) my attention yesterday and today I derected some resonance in my mind of the benefits.  
 
-After navigating to #Commitmas repo to review challenge I went to YouTube to choose  a vBrownBag video to learn some GitHub.  I picked Contributing to OpenSource Projects. https://youtu.be/aU0HlcadLbk then on to explore GitHub Explore https://github.com/explore where I was drawn to Vanessa Mozzadrellas Project about the hugely increased availability of online educational resources.  This led me to https://github.com/mozzadrella/Informal-Tech-Project and then to P2PU a Peer to peer University with loads of Free Courses, tools and contacts for Facilitators and learners.  https://www.p2pu.org/en/about/ 
+After navigating to #Commitmas repo to review challenge I went to YouTube to choose  a vBrownBag video to learn some GitHub.  I picked [Contributing to OpenSource Projects.](https://youtu.be/aU0HlcadLbk) then on to explore [GitHub Explore](https://github.com/explore) where I was drawn to Vanessa Mozzadrellas Project about the hugely increased availability of online educational resources.  This led me to https://github.com/mozzadrella/Informal-Tech-Project and then to [P2PU - Peer to peer University]( https://www.p2pu.org/en/about/) where there's loads of Free Courses, tools and contacts for Facilitators and learners.  
 
 https://learningcircles.p2pu.org/en/courses/
 
-The site got me once again considering meetups, learning circles and online meeting tools.  
+The site got me once again considering meetups and [P2PU's Learning circles](https://learningcircles.p2pu.org/en/courses/)  
 
 Tools to set up a website for a learning circle seems worth looking into as well as  Udacity course How to Make A Website with Html and CSS, and an *Acumen course on Storytelling.
 
 I'll finish up today with some words from
-Jacqueline Novogratz video:
+[Jacqueline Novogratz video:](https://www.good.is/articles/good-advice-jacqueline-novogratz)
 
  > "Commit to something bigger than yourself and you'll find it'll set you free ..."
 
-https://www.good.is/articles/good-advice-jacqueline-novogratz
-
-
-(otherwise I'll never get to the end of the vBrownBag video)
 
 * The loud explosive sound of fireworks is a prompt ...
 
@@ -190,3 +186,8 @@ I'll remember you for what came to be your  many sad endings,for me  the last
 # Welcome 2017
 
 I look forward to your new beginnings, new adventures, new stories and new life.
+
+2017-01-01 A day off for a walk in the rain ... *A Holiday*
+
+2017-01-02 Commitmakkuh Day 8/9 Missed New Years Day but back to edit this page.  Made some more link highlights with [] 
+and () brackets and used > blockquote fot first time.
