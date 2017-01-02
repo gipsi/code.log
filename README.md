@@ -165,7 +165,7 @@ After navigating to #Commitmas repo to review challenge I went to YouTube to cho
 
 https://learningcircles.p2pu.org/en/courses/
 
-The site got me once again considering meetups and [P2PU's Learning circles](https://learningcircles.p2pu.org/en/courses/)  
+The site got me once again considering meetups and [P2PU's Learning circles](https://learningcircles.p2pu.org/en/) 
 
 Tools to set up a website for a learning circle seems worth looking into as well as  Udacity course How to Make A Website with Html and CSS, and an *Acumen course on Storytelling.
 
