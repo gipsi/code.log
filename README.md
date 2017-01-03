@@ -189,5 +189,7 @@ I look forward to your new beginnings, new adventures and new stories.
 
 2017-01-01 A day off for a walk in the rain ... *A Holiday*
 
-2017-01-02 Commitmakkuh Day 8/9 Missed New Years Day but back to edit this page.  Made some more link highlights with [] 
+2017-01-02 Commitmakkuh Day 8 Missed New Years Day but back to edit this page.  Made some more link highlights with [] 
 and () brackets and used > blockquote fot first time.
+
+2017-01-03 #100DaysOfCode Day 1.
