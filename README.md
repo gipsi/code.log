@@ -192,4 +192,5 @@ I look forward to your new beginnings, new adventures and new stories.
 2017-01-02 Commitmakkuh Day 8 Missed New Years Day but back to edit this page.  Made some more link highlights with [] 
 and () brackets and used > blockquote fot first time.
 
-2017-01-03 #100DaysOfCode Day 1.
+2017-01-03 #100DaysOfCode Day 1.Forked 100days of code
+2017-01-04 #100DaysOfCode Day 2.New Year commitment to open source with Enki
