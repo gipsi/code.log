@@ -194,3 +194,4 @@ and () brackets and used > blockquote fot first time.
 
 2017-01-03 #100DaysOfCode Day 1.Forked 100days of code
 2017-01-04 #100DaysOfCode Day 2.New Year commitment to open source with Enki
+Design ponderences and the complexity of git “Yes, Designers can use git too!” @MathieuDutour https://blog.enki.com/yes-designers-can-use-git-too-79f3cef9c899
