@@ -200,3 +200,6 @@ Design ponderences and the complexity of git [“Yes, Designers can use git too!
 2017-01-04 #100DaysOfCode Day 3. Working on making stuff and user stories. 
 
 http://windling.typepad.com/blog/2015/01/perfectionism.html
+
+2017-01-04 #100DaysOfCode Day 4 Trying to figure out if I can switch off Jekyll Theme and Use ony html/css
+and also thinking about reversing this (bullet list) so I write at the top, and put in chapters (blog style).
