@@ -197,9 +197,10 @@ and () brackets and used > blockquote fot first time.
 Design ponderences and the complexity of git [“Yes, Designers can use git too!” @MathieuDutour]
 (https://blog.enki.com/yes-designers-can-use-git-too-79f3cef9c899)
 
-2017-01-04 #100DaysOfCode Day 3. Working on making stuff and user stories. 
+2017-01-05 #100DaysOfCode Day 3. Working on making stuff and user stories. 
 
 http://windling.typepad.com/blog/2015/01/perfectionism.html
 
-2017-01-04 #100DaysOfCode Day 4 Trying to figure out if I can switch off Jekyll Theme and Use ony html/css
-and also thinking about reversing this (bullet list) so I write at the top, and put in chapters (blog style).
+Trying to figure out if I can switch off Jekyll Theme and Use ony html/css
+and also thinking about reversing this (bullet list) so I write at the top,
+and put in chapters (blog style).
