@@ -1,6 +1,8 @@
-2017-01-05 Trying to figure out if I can switch off Jekyll Theme and Use ony html/css and also thinking about reversing this (bullet list) so I write at the top, and put in chapters (blog style).
+* 2017-01-06 Added two files to this repo to make links to each month and tidy up readme landing page.  New code editor (by TechOrion based on Maskyn)on phone to do drafts and view markdown makes editing easier.
 
-2017-01-04 #100DaysOfCode Day 3. Working on making stuff and user stories.
+* 2017-01-05 Trying to figure out if I can switch off Jekyll Theme and Use ony html/css and also thinking about reversing this (bullet list) so I write at the top, and put in chapters (blog style).
+
+* 2017-01-04 #100DaysOfCode Day 3. Working on making stuff and user stories.
 
 http://windling.typepad.com/blog/2015/01/perfectionism.html
 
@@ -9,15 +11,15 @@ http://windling.typepad.com/blog/2015/01/perfectionism.html
 Contact GitHub API Training Shop Blog About© 2017 GitHub, Inc. Terms Privacy Security Status Help
 
 
-2017-01-03 #100DaysOfCode Day 1.Forked 100days of code 2017-01-04 #100DaysOfCode Day 2.New Year commitment to open source with Enki Design ponderences and the complexity of git “Yes, Designers can use git too!” @MathieuDutour
+* 2017-01-03 #100DaysOfCode Day 1.Forked 100days of code 2017-01-04 #100DaysOfCode Day 2.New Year commitment to open source with Enki Design ponderences and the complexity of git “Yes, Designers can use git too!” @MathieuDutour
 
 
 
-2017-01-02 Commitmakkuh Day 8 Missed New Years Day but back to edit this page. Made some more link highlights with [] and () brackets and used > blockquote fot first time
+* 2017-01-02 Commitmakkuh Day 8 Missed New Years Day but back to edit this page. Made some more link highlights with [] and () brackets and used > blockquote fot first time
 
 
 
-2017-01-01 A day off for a walk in the rain ... A Holiday
+* 2017-01-01 A day off for a walk in the rain ... A Holiday
 
 
 Happy New Year GitHub
