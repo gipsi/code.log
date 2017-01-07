@@ -1,3 +1,4 @@
+* 2017-01-07 Sorting out 100DaysOfCode log page. Forked from the wrong repo, then made updatelog.md branch and deleted the repo and started again.  Not sure about the status of the updatelog.md file I made.
 * 2017-01-06 Added two files to this repo to make links to each month and tidy up readme landing page.  New code editor (by TechOrion based on Maskyn)on phone to do drafts and view markdown makes editing easier.
 
 * 2017-01-05 Trying to figure out if I can switch off Jekyll Theme and Use ony html/css and also thinking about reversing this (bullet list) so I write at the top, and put in chapters (blog style).
