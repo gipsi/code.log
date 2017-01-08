@@ -1,5 +1,6 @@
 
-* 2017-01-08 Mostly HTML5 today, some CSS3 Playing around with  Freecodecamp portfolio on codepen.  
+* 2017-01-08 Mostly HTML5 today, some CSS3 Playing around with  [Freecodecamp portfolio on codepen]
+(http://codepen.io/gipsi/full/VmzPJg/)
 Made progress with images , uploading them to Cloudinary.  html links, css background colours, 
 images and icons and buttons,  copyrights. Bootstrap glyphicons and Font-awesome. target="blank"
 opens a hyperlink on another page
