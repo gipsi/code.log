@@ -1,4 +1,7 @@
 
+ * 2017-01-09 HTML5, CSS3and Bootstrap.  Freecodecamp portfolio. Images, style, colour, design, process ... purpose.
+The War of Art  by Steven Pressfield
+
 * 2017-01-08 Mostly HTML5 today, some CSS3 Playing around with  [Freecodecamp portfolio on codepen]
 (http://codepen.io/gipsi/full/VmzPJg/)
 Made progress with images , uploading them to Cloudinary.  html links, css background colours, 
