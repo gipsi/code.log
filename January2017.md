@@ -1,5 +1,7 @@
+* 2017-01-10 "This contentout way of thinking is fundamentally different to the canvasin approach that dates all the way back to the Book of Kells." ... 
+reading [Jeremy Kieth's Resilient Web Design](https://resilientwebdesign.com)
 
- * 2017-01-09 HTML5, CSS3and Bootstrap.  Freecodecamp portfolio. Images, style, colour, design, process ... purpose.
+* 2017-01-09 HTML5, CSS3and Bootstrap.  Freecodecamp portfolio. Images, style, colour, design, process ... purpose.
 Reading: [The War of Art by Steven Pressfield](http://www.stevenpressfield.com/the-war-of-art/)
 
 * 2017-01-08 Mostly HTML5 today, some CSS3 Playing around with  [Freecodecamp portfolio on codepen]
