@@ -1,3 +1,6 @@
+* 2017-01-11  Most important thing I learned today was the difference between declarative and imperative languages. The  declarative languages html and css can still run in the browser with the odd mistake. The imperative languages, programming languages 'proper' come to a halt with any mistake. (ch 4. Languages. The Resilient Web)   
+I've been hovering, before proceeding to learn JavaScript but there is much still to learn of html and css.
+
 * 2017-01-10 "This contentout way of thinking is fundamentally different to the canvasin approach that dates all the way back to the Book of Kells." ... 
 reading [Jeremy Kieth's Resilient Web Design](https://resilientwebdesign.com)
 
