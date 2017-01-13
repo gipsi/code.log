@@ -33,6 +33,11 @@ A Basic HTML5 Page
 
 <㹰 䄀渀 䔀砀攀爀挀椀猀攀 椀渀 挀漀爀攀 昀甀渀挀琀椀漀渀愀氀椀琀礀 㰀⼀瀀ਾ਀਀  㰀甀氀㸀਀    㰀氀椀㸀 圀攀戀 䌀爀愀昀琀 㰀⼀氀椀㸀਀    㰀氀椀㸀 圀攀戀 䌀漀搀攀 㰀⼀氀椀㸀਀    㰀氀椀㸀 圀攀戀 䘀漀氀欀 㰀⼀氀椀㸀਀  㰀⼀甀氀㸀਀਀㰀⼀戀漀搀礀㸀਀਀㰀⼀栀琀洀氀㸀਀
 
+Another lesson from Jeremy Kieth's Resilient Web Design Chapter 6 Steps
+
+" Here’s a threestep approach I take to web design:
+
+Identify core functionality.Make that functionality available using the simplest possible (Web) technology.Enhance!"
 
 * 2017-01-11  Most important thing I learned today was the difference between declarative and imperative languages. The  declarative languages html and css can still run in the browser with the odd mistake. The imperative languages, programming languages 'proper' come to a halt with any mistake. (ch 4. Languages. The Resilient Web)   
 I've been hovering, before proceeding to learn JavaScript but there is much still to learn of html and css.
