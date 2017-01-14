@@ -1,3 +1,5 @@
+* 2017-01-14 [UX Honeycombe on Peter Morville's blog](http://intertwingled.org/user-experience-honeycomb/)
+
 * 2017-01-13 Today was all about adaptive design.
 https://adaptivewebdesign.info
 
