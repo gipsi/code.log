@@ -1,6 +1,6 @@
 # gipsi.github.io
 
-### A Blog about my Coding Journey
+### A Journal about my Web Journey
 
 ## Hello git!
 
