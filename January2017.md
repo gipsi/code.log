@@ -1,3 +1,5 @@
+* 2017-01-16 Reading phone app  css tutorials and trying a few basic things.  Joined CodeWars.
+
 * 2017-01-15
 Getting ready for CSS 50 day challenge.
 
