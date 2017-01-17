@@ -1,7 +1,6 @@
 
 
-*  2017-01-17  Very inspired by this chapter on colour theory of Rune Madsen's book [Programming Design Systems](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/?utm_source=Programming+Design+Systems&utm_campaign=bf03f75c71-EMAIL_CAMPAIGN_2017_01_15&utm_medium=email&utm_term=0_a2d6a1e779-bf03f75c71-120128697) There are things in this brief chapter that spark a quite different way of thinking about colour.  Complimentary is [A Dao of Web Desig](http://alistapart.com/article/dao) A n exellent prompt for considering how web design has evolved from print but is a very different medium.  It includes the palimpsest, my new word of today!  
-Started reading a tutorial phone app book about PHP - my first encounter.
+*  2017-01-17  Very inspired by this chapter on colour theory of Rune Madsen's book [Programming Design Systems](https://programmingdesignsystems.com/color/a-short-history-of-color-theory/?utm_source=Programming+Design+Systems&utm_campaign=bf03f75c71-EMAIL_CAMPAIGN_2017_01_15&utm_medium=email&utm_term=0_a2d6a1e779-bf03f75c71-120128697) There are things in this brief chapter that spark a quite different way of thinking about colour.  Complimentary is [A Dao of Web Design](http://alistapart.com/article/dao) An exellent prompt for considering how web design has evolved from print but is a very different medium.  It includes the wonderful word palimpsest, which I had to look up, so my new word of today!  It reminded me of [this page](https://bryanrieger.com) which I saw yesterday.Started reading a tutorial phone app book about PHP - my first encounter.
 Meanwhile thinking about crafting a CSS image for CodePen challenge.
 First go with VR game - dystopian, terrifying.
 
@@ -12,7 +11,7 @@ Getting ready for CSS 50 day challenge.
 First go with VR head set. Deep sea descent.
 
 * 2017-01-14 [UX Honeycombe on Peter Morville's blog](http://intertwingled.org/user-experience-honeycomb/)
-
+He calls it Interwingled, I love the word and will explore the concept some more.
 * 2017-01-13 Today was all about adaptive design.
 https://adaptivewebdesign.info
 
