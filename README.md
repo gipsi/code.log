@@ -26,3 +26,4 @@ And this is what I'm learning today.
 
 
 [Markdown](https://daringfireball.net/projects/markdown/basics)
+* I also put daily updates on    [#100DaysOfCode page](https://github.com/gipsi/100-days-of-code)
