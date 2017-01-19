@@ -1,9 +1,9 @@
-- - 2017-01-18 Trying new markdown editor on pc whilst constructing image of a beaver in css
--  /* A decent markdown editor finally available on Windows */](https://typora.io/#windows)
--  Other things I found that I'm going to read 
--  Atomic Design by Brad Frost
--  The Cathedral & the Bazaar by  Eric S. Raymond
--  The jargon file](http://www.catb.org/jargon/html/)
+ * 2017-01-19 Trying new markdown editor on pc whilst constructing image of a beaver in css
+  [/* A decent markdown editor finally available on Windows */](https://typora.io/#windows)
+   Other things I found that I'm going to read 
+ * [ Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
+  * [The Cathedral & the Bazaar by  Eric S. Raymond](https://library.oreilly.com/book/9780596001087/the-cathedral-amp-the-bazaar/8.xhtml?ref=toc#cathbazrev-SECT-1.1)
+ * [The jargon file](http://www.catb.org/jargon/html/)
 
 
 * 2017-01-18 Determined to make css image on phone I made an elephant.  I can only get better at this! This article on Flat design [“Flat Design. History, Benefits and Practice.” @tubikstudio](https://uxplanet.org/flat-design-history-benefits-and-practice-c2b092955f14) gave me some infill on the style. The contrast with skeumorphics is interesting.  
