@@ -1,7 +1,8 @@
 *  2017-01-20 css 50 tiger.  Too cold to code really, worried the eqipment might pack up.  Got 4th image done though.
- My Codepen Gipsi page is now a _Web Design_System_
- * 2017-01-19 Trying new markdown editor on pc whilst constructing image of a beaver in css
-  [/* A decent markdown editor finally available on Windows */](https://typora.io/#windows)
+ My Codepen Gipsi page is now a [_Web Design_System_](https://codepen.io/gipsi/full/VmzPJg/ * 2017-01-19 Trying new markdown editor on pc whilst constructing image of a beaver in css)
+ 
+  [/* A decent markdown editor finally available on Windows */](https://typora.io/#windows)
+  
    Other things I found that I'm going to read 
  * [ Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
   * [The Cathedral & the Bazaar by  Eric S. Raymond](https://library.oreilly.com/book/9780596001087/the-cathedral-amp-the-bazaar/8.xhtml?ref=toc#cathbazrev-SECT-1.1)
