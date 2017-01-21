@@ -1,4 +1,6 @@
-*  2017-01-20 css 50 tiger.  Too cold to code really, worried the eqipment might pack up.  Got 4th image done though.
+ * 
+2017-01-21 css 5/50 Favourite animated animal ... Fiver from Watership Down.  Definitely too cold to code. 
+ *  2017-01-20 css 50 tiger.  Too cold to code really, worried the eqipment might pack up.  Got 4th image done though.
 
  My Codepen gipsi page is now a [_Web Design_System_](https://codepen.io/gipsi/full/VmzPJg/ * 2017-01-19 Trying new markdown editor on pc whilst constructing image of a beaver in css)
  
@@ -8,9 +10,10 @@
  * [ Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
   * [The Cathedral & the Bazaar by  Eric S. Raymond](https://library.oreilly.com/book/9780596001087/the-cathedral-amp-the-bazaar/8.xhtml?ref=toc#cathbazrev-SECT-1.1)
  * [The jargon file](http://www.catb.org/jargon/html/)
-
-
-* 2017-01-18 Determined to make css image on phone I made an elephant.  I can only get better at this! This article on Flat design [“Flat Design. History, Benefits and Practice.” @tubikstudio](https://uxplanet.org/flat-design-history-benefits-and-practice-c2b092955f14) gave me some infill on the style. The contrast with skeumorphics is interesting.  
+ 
+ * 2017-01-19 css beaver (3rd image in challenge).
+ 
+ * 2017-01-18 Determined to make css image on phone I made an elephant.  I can only get better at this! This article on Flat design [“Flat Design. History, Benefits and Practice.” @tubikstudio](https://uxplanet.org/flat-design-history-benefits-and-practice-c2b092955f14) gave me some infill on the style. The contrast with skeumorphics is interesting.  
 
 * Another area I like to delve into and put an article into 'pocket' for later is [How to write Agile User Stories by Josh Grayson](https://gorillalogic.com/blog/how-to-write-agile-user-stories/?utm_content=44695328&utm_medium=social&utm_source=twitter)
 
