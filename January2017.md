@@ -1,5 +1,16 @@
- * 
-2017-01-21 css 5/50 Favourite animated animal ... Fiver from Watership Down.  Definitely too cold to code. 
+
+* 2017-01-22
+* Started [Coursera Gameification](https://www.coursera.org/learn/gamification)
+
+* Did the [Bartle test](http://4you2learn.com/bartle/)
+
+Thought about:
+
+* [yak shaving](“A Guide to Yak Shaving Your Code” @FirehoseProject https://medium.com/@firehoseproject/a-guide-to-yak-shaving-your-code-d30f98dc759)
+
+* And building a [bike shed](http://bikeshed.org)
+  * and reading [A generation lost in the Bazaar](http://queue.acm.org/detail.cfm?id=2349257)
+* 2017-01-21 css 5/50 Favourite animated animal ... Fiver from Watership Down.  Definitely too cold to code. 
  *  2017-01-20 css 50 tiger.  Too cold to code really, worried the eqipment might pack up.  Got 4th image done though.
 
  My Codepen gipsi page is now a [_Web Design_System_](https://codepen.io/gipsi/full/VmzPJg/ * 2017-01-19 Trying new markdown editor on pc whilst constructing image of a beaver in css)
