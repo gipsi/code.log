@@ -6,7 +6,7 @@
 
 Thought about:
 
-* [yak shaving](“A Guide to Yak Shaving Your Code” @FirehoseProject https://medium.com/@firehoseproject/a-guide-to-yak-shaving-your-code-d30f98dc759)
+* yak shaving [“A Guide to Yak Shaving Your Code” @FirehoseProject](https://medium.com/@firehoseproject/a-guide-to-yak-shaving-your-code-d30f98dc759)
 
 * And building a [bike shed](http://bikeshed.org)
   * and reading [A generation lost in the Bazaar](http://queue.acm.org/detail.cfm?id=2349257)
