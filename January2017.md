@@ -1,4 +1,6 @@
-* * 2317-01-23  With guidance from #javascript30 and #dailycssimages I built a  [clock](http://codepen.io/gipsi/pen/ygXexN)
+* 2017-01-24 Made another css thing in Codepen ... [a ruler](http://codepen.io/gipsi/pen/zNzVpe)
+
+* 2017-01-23  With guidance from #javascript30 and #dailycssimages I built ...  [a clock](http://codepen.io/gipsi/pen/ygXexN)
 
 * 2017-01-22
 * Started [Coursera Gameification](https://www.coursera.org/learn/gamification)
