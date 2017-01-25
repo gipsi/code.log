@@ -1,3 +1,7 @@
+ * 2017-01-25 Made a [pure css notepad](http://hackwrite.com/posts/file-names/)
+
+  A useful article about [naming files](http://hackwrite.com/posts/file-names/) 
+
 * 2017-01-24 Made another css thing in Codepen ... [a ruler](http://codepen.io/gipsi/pen/zNzVpe)
 
 * 2017-01-23  With guidance from #javascript30 and #dailycssimages I built ...  [a clock](http://codepen.io/gipsi/pen/ygXexN)
