@@ -1,4 +1,5 @@
- * 2017-01-25 Made a [pure css notepad](http://hackwrite.com/posts/file-names/)
+* 2017-01-26 [ziegarnik effect](https://en.wikipedia.org/wiki/Zeigarnik_effect) to memorise more effectively.
+* 2017-01-25 Made a [pure css notepad](http://hackwrite.com/posts/file-names/)
 
   A useful article about [naming files](http://hackwrite.com/posts/file-names/) 
 
