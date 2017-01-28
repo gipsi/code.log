@@ -1,6 +1,6 @@
 * 2017-01-26 [ziegarnik effect](https://en.wikipedia.org/wiki/Zeigarnik_effect) to memorise more effectively.
+And a blog wit some advice for new programmers-   some [practical elegance](hhttp://decomplecting.org/blog/2013/09/29/letter-to-a-young-or-new-programmer/)
 * 2017-01-25 Made a [pure css notepad](http://hackwrite.com/posts/file-names/)
-
   A useful article about [naming files](http://hackwrite.com/posts/file-names/) 
 
 * 2017-01-24 Made another css thing in Codepen ... [a ruler](http://codepen.io/gipsi/pen/zNzVpe)
