@@ -1,3 +1,4 @@
+* 2017-01-31. Shadowplay with css 
 * 2017-01-30 * 2017-01-30 Thinking about css [On Style by Susan Sontag](http://www.coldbacon.com/writing/sontag-onstyle.html)  caught my eye, a discussion about attitudes towards style and content, which given the separation of the "styles" of css from the "content" of html,  got me thinking about the implications of this view regards coding as an art form. 
  There is a rhythmic as well as visual aspect to css which I find aesthetically engaging.  and doing the css daily challenge neccessitates keeping things simple and I am finding myself in agreement with  
  [Afra Noubarzadeh: Limit your reality @Gothenburg_CM](https://t.co/AlIOXYRH7N) via @creativemorning  "search - dream - express"
