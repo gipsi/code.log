@@ -22,6 +22,7 @@
 * [December2016](https://github.com/gipsi/gipsi.github.io/blob/master/December2016.md)
 
 And this is what I'm learning today.
+* [gamification](https://www.coursera.org/learn/gamification)
 * [Cascading Style Sheets](https://en.m.wikipedia.org/wiki/Cascading_Style_Sheets)
 * [Markdown](https://daringfireball.net/projects/markdown/basics) 
 * I also put daily updates on    [#100DaysOfCode page](https://github.com/gipsi/100-days-of-code)
