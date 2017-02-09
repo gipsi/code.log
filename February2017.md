@@ -1,3 +1,6 @@
+* 2017-02-09 Android IDE and Codepen on PC Vampire.
+* 2017-02-08 Android IDE and Codepen on PC Zombie.  The philosopy of science and religion and Gamification (wrote and reviewed essays) on Coursera
+* 2017-02-07 Android IDE and Codepen on PC Frankenstein.  Intellectual Humility and Gamification - wrote essay for PSR on Coursera
 * 2017-02-06 Codepen - exploring [responsive hyperpage](http://codepen.io/gipsi/pen/VmzPJg)
   Thinking about that philosophy question after watching the last of wk 2 videos. 
   - my offline dictionary wasn't much help, it just said substantive is a noun.
