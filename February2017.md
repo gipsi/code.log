@@ -1,4 +1,4 @@
-
+* 2017-02-15 finished green lantern power ring and did some flexbox.
 * 2017-02-14 pure css green lantern badge - and heart shaped box
 * 2017-02-13 pure css superman badge
 * 2017-02-12 css for fun and gamification essay. Lots of quizzes.
