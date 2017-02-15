@@ -1,3 +1,9 @@
+
+* 2017-02-14 pure css green lantern badge - and heart shaped box
+* 2017-02-13 pure css superman badge
+* 2017-02-12 css for fun and gamification essay. Lots of quizzes.
+* 2017-02-11 revision. Intellectual humility and gamification.
+* 2017-02-10 css moon
 * 2017-02-09 Android IDE and Codepen on PC Vampire.
 * 2017-02-08 Android IDE and Codepen on PC Zombie.  The philosopy of science and religion and Gamification (wrote and reviewed essays) on Coursera
 * 2017-02-07 Android IDE and Codepen on PC Frankenstein.  Intellectual Humility and Gamification - wrote essay for PSR on Coursera
