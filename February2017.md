@@ -1,4 +1,15 @@
-* 2017-02-15 finished green lantern power ring and did some flexbox.
+ * 2017-02-21 css Captain America
+
+ * 2017-02-20 css Iron Man codepen
+
+ * 2017-02-19 css Wolverine Codepen
+
+ * 2017-02-18 Html-kit on eMachine Windows XP
+
+ * 2017-02-17 The Missing link 
+
+ * 2017-02-16 Reading a book about Gnu/Linux command line
+ * 2017-02-15 finished green lantern power ring and did some flexbox.
 * 2017-02-14 pure css green lantern badge - and heart shaped box
 * 2017-02-13 pure css superman badge
 * 2017-02-12 css for fun and gamification essay. Lots of quizzes.
