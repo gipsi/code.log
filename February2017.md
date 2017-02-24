@@ -1,4 +1,9 @@
- * 2027-02-22 Think like a programmer. gipsi.github.io 
+ 
+*2017-02-23 icon on codepen https://codepen.io/gipsi/pen/EWxQwy
+
+* 2017-02-22 first web page in HTML and JavaScript 
+https://gipsi.github.io 
+ Think like a programmer. 
  * 2017-02-21 css Captain America
 
  * 2017-02-20 css Iron Man codepen
