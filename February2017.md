@@ -1,7 +1,5 @@
- 
-*2017-02-23 icon on codepen https://codepen.io/gipsi/pen/EWxQwy
-
-* 2017-02-22 first web page in HTML and JavaScript 
+ * 2017-02-23 interested in http://daverupert.com/2017/02/pocketchip/*2017-02-23 icon on codepen https://codepen.io/gipsi/pen/EWxQwy   and http://learning-gardens.co/2016/08/13/github_for_lovers.html
+ * 2017-02-22 first web page in HTML and JavaScript 
 https://gipsi.github.io 
  Think like a programmer. 
  * 2017-02-21 css Captain America
