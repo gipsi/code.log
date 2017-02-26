@@ -1,7 +1,7 @@
  * 2017-02-26 https://codepen.io/gipsi/pen/qrddqO 
  
- * 2017-02-25
- 
+ * 2017-02-25 keen to have a go with animation after reading this 
+ “Introduction to CSS Animations (With a Sprinkle of Vue.js)” @michaelmangial1 https://medium.com/coding-artist/introduction-to-css-animations-with-a-sprinkle-of-vue-js-391b567aba5a 
  * 2017-02-24
  
  * 2017-02-23 interested in http://daverupert.com/2017/02/pocketchip/*2017-02-23 icon on codepen https://codepen.io/gipsi/pen/EWxQwy   and http://learning-gardens.co/2016/08/13/github_for_lovers.html
