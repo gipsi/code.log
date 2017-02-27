@@ -1,4 +1,6 @@
- * 2017-02-26 https://codepen.io/gipsi/pen/qrddqO 
+* 2017-02-27 #100DaysOfCode #301DaysofCode 054 #dailycssimages 28 icon #freeCodeCamp
+
+https://codepen.io/gipsi/pen/wJaOOV* 2017-02-26 https://codepen.io/gipsi/pen/qrddqO 
  
  * 2017-02-25 keen to have a go with animation after reading this 
  “Introduction to CSS Animations (With a Sprinkle of Vue.js)” @michaelmangial1 https://medium.com/coding-artist/introduction-to-css-animations-with-a-sprinkle-of-vue-js-391b567aba5a 
