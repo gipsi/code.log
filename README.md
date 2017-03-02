@@ -13,7 +13,9 @@
 
 
  This is how it continues.
- * [February2017](https://github.com/gipsi/gipsi.github.io/blob/master/February2017.md)
+ * [March]
+ 
+* [February2017](https://github.com/gipsi/gipsi.github.io/blob/master/February2017.md)
 
 
 * [January2017](https://github.com/gipsi/gipsi.github.io/blob/master/January2017.md)
@@ -22,7 +24,8 @@
 * [December2016](https://github.com/gipsi/gipsi.github.io/blob/master/December2016.md)
 
 And this is what I'm learning today.
+* [Pattern Language](https://en.m.wikipedia.org/wiki/Pattern_language)
 * [gamification](https://www.coursera.org/learn/gamification)
 * [Cascading Style Sheets](https://en.m.wikipedia.org/wiki/Cascading_Style_Sheets)
 * [Markdown](https://daringfireball.net/projects/markdown/basics) 
-* I also put daily updates on    [#100DaysOfCode page](https://github.com/gipsi/100-days-of-code)
+* I also put daily updates on    [#100DaysOfCode page](https://github.com/gipsi/100-days-of-code). Usually
