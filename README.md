@@ -23,7 +23,8 @@
 * [December2016](https://github.com/gipsi/gipsi.github.io/blob/master/December2016.md)
 
 And this is what I'm learning today.
-* [Flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nhp69jpbk)
+* CSS[Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
+* CSS[Flexbox](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nhp69jpbk)
 * [Pattern Language](https://en.m.wikipedia.org/wiki/Pattern_language)
 * [gamification](https://www.coursera.org/learn/gamification)
 * [CSS3](https://en.m.wikipedia.org/wiki/Cascading_Style_Sheets)
