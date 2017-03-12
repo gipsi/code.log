@@ -23,7 +23,7 @@
 * [December2016](https://github.com/gipsi/gipsi.github.io/blob/master/December2016.md)
 
 And this is what I'm learning today.
-
+* Front-end style sheets
  [//]: #  (CSS[Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout))
 
  [//]: #  (CSS[Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout))
@@ -34,7 +34,7 @@ And this is what I'm learning today.
 
  [//]: # (g[gamification](https://www.coursera.org/learn/gamification))
 
- [//]: # (c[CSS2](https://www.w3schools.com/css/) and [CSS3](https://en.m.wikipedia.org/wiki/Cascading_Style_Sheets))
+  [//]: # ( c[CSS2](https://www.w3schools.com/css/) and [CSS3](https://en.m.wikipedia.org/wiki/Cascading_Style_Sheets))
 
 * [Markdown](https://daringfireball.net/projects/markdown/basics) 
 * I also put daily updates on    [#100DaysOfCode page](https://github.com/gipsi/100-days-of-code). Usually
