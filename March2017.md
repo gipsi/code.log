@@ -37,20 +37,17 @@ Trying to get the boxes to behave in a Flexbox navbar.
 
 * 2017-03-09: Day 61
 #100DaysOfCode #301DaysofCode 061
-#dailycssimages 31 -  bar graph - with #flexbox
+#dailycssimages 31 [-  bar graph -](https://codepen.io/gipsi/pen/KWNaBy) with #flexbox
 
-https://codepen.io/gipsi/pen/KWNaBy
+
 
 * 2017-03-08.: Day 60
 #100DaysOfCode #301DaysofCode 060
-#dailycssimages 30 -  download 
-
-https://t.co/aULEPtIT8F https://t.co/x4TbbKCuJz
-
+#dailycssimages 30 [download](https://t.co/aULEPtIT8F)
 
 * 2017-03-07: Day 59   
 #100DaysOfCode #301DaysofCode 059 
-#dailycssimages [-29 cogs -](https://t.co/pQ8cEJBQOa https://t.co/hpCpRgYXtU) animated with some @keyframes spin 
+#dailycssimages 29 [cogs](https://t.co/pQ8cEJBQOa) animated with some @keyframes spin 
 
 * 2017-03-06: Day 58 
 #100DaysOfCode #301DaysofCode 058 #FreeCodeCamp project: some offline mobile first  responsive html and a touch pure CSS3.
@@ -60,7 +57,7 @@ https://t.co/aULEPtIT8F https://t.co/x4TbbKCuJz
 
 * 2017-03-04: Day 56 
 #Having lots of fun with droidedit - except its the free version and ads get in the way. 
-Trying to get my nav bar into a [flexbox container](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nhp69jpbk)
+Trying to get my nav bar into a [- flexbox container -](https://medium.freecodecamp.com/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af#.nhp69jpbk)
 
 * 2017-03-04: Day 55
 
