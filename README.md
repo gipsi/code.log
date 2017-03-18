@@ -34,9 +34,9 @@ And this is what I'm learning today.
  
  ### [Pattern Language](https://en.m.wikipedia.org/wiki/Pattern_language)
 
- ### [gamification](https://www.coursera.org/learn/gamification)
+### [Gamification](https://www.coursera.org/learn/gamification)
 
- ### [CSS2](https://www.w3schools.com/css/) and [CSS3](https://en.m.wikipedia.org/wiki/Cascading_Style_Sheets)
+### [CSS2](https://www.w3schools.com/css/)  and [CSS3](https://en.m.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 ### [Markdown](https://daringfireball.net/projects/markdown/basics) 
 
