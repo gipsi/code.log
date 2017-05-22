@@ -13,8 +13,8 @@
 
 
  This is how it continues. 
- * (May 2017]()
- * [April 2017]()
+ * (May 2017](https://github.com/gipsi/gipsi.github.io/blob/master/May2017.md)
+ * [April 2017](https://github.com/gipsi/gipsi.github.io/blob/master/April2017.md)
  * [March 2017](https://github.com/gipsi/gipsi.github.io/blob/master/March2017.md) 
  * [February2017](https://github.com/gipsi/gipsi.github.io/blob/master/February2017.md)
 
