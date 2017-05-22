@@ -1,6 +1,6 @@
 # gipsi.github.io
 
-### A log of my coding journey
+### A log of my coding 
 
 ## Hello git!
 
