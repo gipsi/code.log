@@ -1,4 +1,25 @@
 
+* 2017-03-28: Day 81
+#100DaysOfCode #301DaysofCode 081
+#FreeCodeCamp Mostly CSS. Practicing breaking things. Putting it back together. Refactoring.
+
+* 2017-03-26: Day 79
+#100DaysOfCode #301DaysofCode 079
+#dailycssimages  Img 40 html and pure css 2DS with molecules - atomic design.
+
+* 2017-03-26: Day 78
+#100DaysOfCode #301DaysofCode 078
+Using external stylesheets instead of inline, this worked fine yesterday. Today no.
+
+* 2017-03-24: Day 76
+#100DaysOfCode #301DaysofCode 076
+Looking for a way to have audio file sounds play on hover - css keyboard
+
+* 2017-03-18: Day 70
+100DaysOfCode #301DaysofCode 070
+#dailycssimages 36 - Elm logo - Turned out to be an absorbing Tangram puzzle 
+https://codepen.io/gipsi/pen/MprOPq …
+
 * 2017-03-17: Day 69
 #100DaysOfCode #301DaysofCode 069
 #dailycssimages 35 - Elm logo - so far made first triangle by tweaking this guide: 
