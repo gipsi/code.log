@@ -1,3 +1,15 @@
+* 2017-03-31: Day 82
+#100DaysOfCode #301DaysofCode 084
+#FreeCodeCamp Made an html and css web page with a flexbox calendar. #30DWC gipsi.itbit.me
+
+* 2017-03-30: Day 83
+#100DaysOfCode #301DaysofCode 083
+#FreeCodeCamp Made a very long html page with colorful css flexible boxes and navigation 
+
+* 2017-03-29: Day 82
+#100DaysOfCode #301DaysofCode 082
+#FreeCodeCamp Made HTML template
+organised files and folders a bit.
 
 * 2017-03-28: Day 81
 #100DaysOfCode #301DaysofCode 081
