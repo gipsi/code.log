@@ -1,9 +1,11 @@
 
-1https://www.computerhope.com/jargon/d/dragon-book.htm0https://www.computerhope.com/jargon/d/dragon-book.htm0DaysOfCode #301DaysofCode 107
-##100DaysOfCode #301DaysofCode 107
-#FreeCodeCamp html #DailyWritingChallenge 18 writing gipsi.itbit.me
-
-https://www.computerhope.com/jargon/d/dragon-book.htmFrehttps://www.computerhope.com/jargon/d/dragon-book.htm* eCodeCamp html #DailyWritingChallenge 18 writing http://gipsi.itbit.me 
+* 2017-04-18: Day 100
+##100DaysOfCode #301DaysofCode 100
+#FreeCodeCamp html 
+Computer hope - Daily updates of this day in computer history 
+The Dragon Book
+https://www.computerhope.com/jargon/d/dragon-book.htmFrehttps://www.computerhope.com/jargon/d/dragon-book.htm
+#DailyWritingChallenge 18 writing http://gipsi.itbit.me 
 
 * 2017-04-17: Day 99
 #100DaysOfCode #301DaysofCode 099
