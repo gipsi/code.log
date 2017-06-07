@@ -22,11 +22,11 @@
  * [December2016](https://github.com/gipsi/gipsi.github.io/blob/master/December2016.md)
 
 And this is what I'm learning today:
- *  Pocket C.H.I.P
+ ## Pocket C.H.I.P
  ## Debian "Jessie" CommandLineInterFace
  ## Pico-8 
  ## Lua
- ## 30Days£0Sites
+ ## 30Days30Sites
  ## 100DaysofCode
  ## 301DaysofCode
  ## FreeCodeCamp 
