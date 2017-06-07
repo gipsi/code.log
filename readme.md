@@ -23,7 +23,7 @@
 
 And this is what I'm learning today:
 ## Pocket C.H.I.P
-## Debian "Jessie" CommandLineInterFace
+## Debian "Jessie" CommandLineInterface
 ## Pico-8 
 ## Lua
 ## 30Days30Sites
