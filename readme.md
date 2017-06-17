@@ -22,15 +22,6 @@
  * [December2016](https://github.com/gipsi/gipsi.github.io/blob/master/December2016.md)
 
 And this is what I'm learning today:
-## Pocket C.H.I.P
-## Debian "Jessie" CommandLineInterface
-## Pico-8 
-## Lua
-## 30Days30Sites
-## 100DaysofCode
-## 301DaysofCode
-## FreeCodeCamp 
-## Habitica 
-## SoloLearn
+# HTML 
 
 
