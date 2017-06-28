@@ -131,6 +131,9 @@
         <div class="section" id="contacts">
             <h1><span>Follow Me</span></h1>
             <div>
+                  <a href="#">
+                    <img alt="FreeCodeCamp" src="http://res.cloudinary.com/duq3b11nz/image/upload/c_scale,w_196/v1489340335/IMG_20170226_203546_vve9el.jpg" />
+                </a>
                 <a href="https://www.sololearn.com/" target="_blank">
                     <img alt="SoloLearn" src="https://www.sololearn.com/Uploads/icons/sololearn.png" />
                 </a>
