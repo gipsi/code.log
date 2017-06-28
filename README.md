@@ -8,7 +8,7 @@
     <body>
         <!-- header start -->
         <div id="header" class="section">
-            <img alt="" class="img-circle" src="https://code.sololearn.com/Icons/Avatars/0.jpg">
+            <img alt="" class="img-circle" src="http://res.cloudinary.com/duq3b11nz/image/upload/v1498679087/face-1104763_640_fegggm.jpg">
             <p>Gipsi</p>
         </div>
         <!-- header end -->
