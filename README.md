@@ -8,7 +8,7 @@
     <body>
         <!-- header start -->
         <div id="header" class="section">
-            <img alt="" class="img-circle" src="http://res.cloudinary.com/duq3b11nz/image/upload/v1498679087/face-1104763_640_fegggm.jpg">
+            <img alt="Gipsi avatar" class="img-circle" src="http://res.cloudinary.com/duq3b11nz/image/upload/v1498679087/face-1104763_640_fegggm.jpg">
             <p>Gipsi</p>
         </div>
         <!-- header end -->
@@ -131,14 +131,15 @@
         <div class="section" id="contacts">
             <h1><span>Follow Me</span></h1>
             <div>
-                  <a href="#">
-                    <img alt="FreeCodeCamp" src="http://res.cloudinary.com/duq3b11nz/image/upload/q_auto:eco,r_30/v1498753410/fccicon_hbptxc.jpg" />
-                </a>
-                <a href="https://www.sololearn.com/" target="_blank">
+                  <a href="https://www.freecodecamp.com/gipsi" target="_blank">
+                    <img alt="FreeCodeCamp" class="img-circle"
+                       src="http://res.cloudinary.com/duq3b11nz/image/upload/q_auto:eco,r_30/v1498753410/fccicon_hbptxc.jpg" />
+                   </a>
+                   <a href="https://www.sololearn.com/" target="_blank">
                     <img alt="SoloLearn" src="https://www.sololearn.com/Uploads/icons/sololearn.png" />
                 </a>
                 <a href="#">
-                    <img alt="Facebook" src="https://www.sololearn.com/Uploads/icons/facebook.png"/>
+                    <img alt="Facebook" src="https://www.sololearn.com/Uploads/icons/codepen.png"/>
                 </a>
                 <a href="#">
                     <img alt="Twitter" src="https://www.sololearn.com/Uploads/icons/twitter.png" />
