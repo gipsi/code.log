@@ -131,19 +131,17 @@
         <div class="section" id="contacts">
             <h1><span>Follow Me</span></h1>
             <div>
-                  <a href="https://www.freecodecamp.com/gipsi" target="_blank">
-                    <img alt="FreeCodeCamp" class="img-circle"
-                       src="http://res.cloudinary.com/duq3b11nz/image/upload/q_auto:eco,r_30/v1498753410/fccicon_hbptxc.jpg" />
-                   </a>
-                   <a href="https://www.sololearn.com/" target="_blank">
-                    <img alt="SoloLearn" src="https://www.sololearn.com/Uploads/icons/sololearn.png" />
-                </a>
-                <a href="#">
-                    <img alt="Facebook" src="https://www.sololearn.com/Uploads/icons/codepen.png"/>
-                </a>
-                <a href="#">
-                    <img alt="Twitter" src="https://www.sololearn.com/Uploads/icons/twitter.png" />
-                </a>
+                    <a href="https://www.sololearn.com/" target="_blank">
+                      <img alt="SoloLearn"
+                    src="https://www.sololearn.com/Uploads/icons/sololearn.png" />
+                    </a>
+                    <a href="https://www.freecodecamp.com/gipsi">
+                      <img alt="FreeCodeCamp"
+                    src="http://res.cloudinary.com/duq3b11nz/image/upload/q_auto:eco,r_30/v1498753410/fccicon_hbptxc.jpg"/>
+                    </a>
+                    <a href="https://twitter.com/gipsitana">
+                      <img alt="Twitter" src="https://www.sololearn.com/Uploads/icons/twitter.png" />
+                    </a>
             </div>
         </div>
         <!-- Contacts section end -->
