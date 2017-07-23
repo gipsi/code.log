@@ -10,6 +10,9 @@
         <div id="header" class="section">
             <img alt="Gipsi avatar" class="img-circle" src="http://res.cloudinary.com/duq3b11nz/image/upload/v1500725314/tdupjeujvhwhmzxqazcx.png">
             <p>Gipsi</p>
+            <P>
+            <a href="http://res.cloudinary.com/duq3b11nz/image/upload/v1500822843/wordle_10_lvdjfx.png">A Wordle cloud of my web log</a>
+            </p>
         </div>
         <!-- header end -->
         
