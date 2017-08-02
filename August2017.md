@@ -1,3 +1,7 @@
+* 2017-08-01 #100DaysOfCode #301DaysOfCode #100DaysOfJavascript #FreeCodeCamp #MDN 
+  Reflected a bit on using Brackets editor and JSLint.  Made a Random Excuse Generator with Mozzila Thimble, an html/css/JavaScript    project.
+* link: https://thimbleprojects.org/gipsi/301378 
+
 
 
 * 2017-08-01 #100DaysOfCode #301DaysOfCode #100DaysOfJavascript #FreeCodeCamp #MDN 
