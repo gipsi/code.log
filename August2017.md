@@ -1,4 +1,7 @@
-* 2017-08-01 #100DaysOfCode #301DaysOfCode #100DaysOfJavascript #FreeCodeCamp #MDN 
+* 2017-08-03 #100DaysOfCode 215 #301DaysOfCode 3 #100DaysOfJavascript #FreeCodeCamp #MDN Random Excuse machine coder(remix)
+Node.js, NPM, Gulp, Grunt, winSCP
+
+* 2017-08-02 #100DaysOfCode 214 #301DaysOfCode 2 #100DaysOfJavascript #FreeCodeCamp #MDN 
   Reflected a bit on using Brackets editor and JSLint.  Made a Random Excuse Generator with Mozzila Thimble, an html/css/JavaScript    project.
 * link: https://thimbleprojects.org/gipsi/301378 
 
