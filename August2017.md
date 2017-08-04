@@ -1,5 +1,9 @@
+* 2017-08-04 #100DaysOfCode 216 #301DaysOfCode 4 #100DaysOfJavascript remixing on @glitch Some JavaScript and Markdown and making blog site with ghost #30Days30Sites https://wakeful-cover.glitch.me/
+
 * 2017-08-03 #100DaysOfCode 215 #301DaysOfCode 3 #100DaysOfJavascript #FreeCodeCamp #MDN Random Excuse machine coder(remix)
 Node.js, NPM, Gulp, Grunt, winSCP
+
+A recce of NPM, Node.js, Grunt and Gulp. And some tinkering with html/css/JavaScript Mozilla Thimble project Random Excuse Generator - coder(remix) I thought of some better excuses. 
 
 * 2017-08-02 #100DaysOfCode 214 #301DaysOfCode 2 #100DaysOfJavascript #FreeCodeCamp #MDN 
   Reflected a bit on using Brackets editor and JSLint.  Made a Random Excuse Generator with Mozzila Thimble, an html/css/JavaScript    project.
