@@ -1,3 +1,5 @@
+* 2017-08-05 #100DaysOfCode 217 #301DaysOfCode 5 #100DaysOfJavascript Gitbook - Learn Javascript. Centering weather widjet on web site, putting amp after & to correct error message in code editor. The the weather widget code is here: https://codepen.io/gipsi/pen/mMPRYj
+
 * 2017-08-04 #100DaysOfCode 216 #301DaysOfCode 4 #100DaysOfJavascript remixing on @glitch Some JavaScript and Markdown and making blog site with ghost #30Days30Sites https://wakeful-cover.glitch.me/
 
 * 2017-08-03 #100DaysOfCode 215 #301DaysOfCode 3 #100DaysOfJavascript #FreeCodeCamp #MDN Random Excuse machine coder(remix)
