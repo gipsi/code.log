@@ -1,5 +1,5 @@
 
-* 2017-08-07 #100DaysOfCode 219 #301DaysOfCode 7 #100DaysOfJavascript Making site into smaller linked files gipsi.itbit.me
+* 2017-08-07 #100DaysOfCode 219 #301DaysOfCode 7 #100DaysOfJavascript adjusting image changer and making site into smaller linked files gipsi.itbit.me
 
 * 2017-08-06 #100DaysOfCode 218 #301DaysOfCode 6 #100DaysOfJavascript Building a Basic HTTP server with Node beginner Book:  http://dandy-hub.glitch.me 
 
