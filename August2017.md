@@ -1,6 +1,6 @@
 
 * ​
-* 2017-08-08 #100DaysOfCode 220 #301DaysOfCode 8 #100DaysOfJavascript 
+* 2017-08-08 #100DaysOfCode 220 #301DaysOfCode 8 #100DaysOfJavascript  - GitKraken/Typora workflow branch-develop-change content-stage-commit-merge
 
 
 
