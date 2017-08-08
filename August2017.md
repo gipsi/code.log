@@ -1,6 +1,10 @@
 
-* 2017-08-07 #100DaysOfCode 219 #301DaysOfCode 7 #100DaysOfJavascript adjusting image changer and making site into smaller linked files gipsi.itbit.me
+* ​
+* 2017-08-08 #100DaysOfCode 220 #301DaysOfCode 8 #100DaysOfJavascript 
 
+
+
+* 2017-08-07 #100DaysOfCode 219 #301DaysOfCode 7 #100DaysOfJavascript adjusting image changer and making site into smaller linked files gipsi.itbit.me
 * 2017-08-06 #100DaysOfCode 218 #301DaysOfCode 6 #100DaysOfJavascript Building a Basic HTTP server with Node beginner Book:  http://dandy-hub.glitch.me 
 
 
@@ -9,7 +13,7 @@
 * 2017-08-04 #100DaysOfCode 216 #301DaysOfCode 4 #100DaysOfJavascript remixing on @glitch Some JavaScript and Markdown and making blog site with ghost #30Days30Sites https://wakeful-cover.glitch.me/
 
 * 2017-08-03 #100DaysOfCode 215 #301DaysOfCode 3 #100DaysOfJavascript #FreeCodeCamp #MDN Random Excuse machine coder(remix)
-Node.js, NPM, Gulp, Grunt, winSCP
+  Node.js, NPM, Gulp, Grunt, winSCP
 
 A recce of NPM, Node.js, Grunt and Gulp. And some tinkering with html/css/JavaScript Mozilla Thimble project Random Excuse Generator - coder(remix) I thought of some better excuses. 
 
