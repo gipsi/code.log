@@ -1,4 +1,4 @@
-2017-08-09 #100DaysOfCode 220 #301DaysOfCode 8 #100DaysOfJavascript - link hyperlinks in folders with breadcrumbs and some string abundant-dream.glitch.me
+*  2017-08-09 #100DaysOfCode 220 #301DaysOfCode 8 #100DaysOfJavascript - link hyperlinks in folders with breadcrumbs and some string abundant-dream.glitch.me
 
 Drew a diagram of my website - storyboard? Worked hard on getting html files to link http://gipsi.itbit.me/blog/index.html#CAugust09
 * ​
