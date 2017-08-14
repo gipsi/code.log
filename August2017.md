@@ -1,3 +1,5 @@
+
+
 *  2017-08-14 #100DaysOfCode 226 #301DaysOfCode 14 #100DaysOfJavascript
 
 *  2017-08-13 #100DaysOfCode 225 #301DaysOfCode 13 #100DaysOfJavascript - deconstructing information architecture and free course on dev tools   https://www.udemy.com/learn-how-to-use-chrome-developer-tools/
