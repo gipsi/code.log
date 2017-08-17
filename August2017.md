@@ -1,6 +1,17 @@
+*  2017-08-17 #100DaysOfCode 229 #301DaysOfCode 17 #100DaysOfJavascript
 
+
+*  2017-08-16 #100DaysOfCode 228 #301DaysOfCode 16 #100DaysOfJavascript
+abstraction inheritance encapsulation polymorphism OOP's! Thinking in javaScript.
+for & while loops not common practice & difficult to grok https://github.com/codebar/tutorials/issues/312
+
+*  2017-08-15 #100DaysOfCode 227 #301DaysOfCode 15 #100DaysOfJavascript
+JS as Construction site/How to use Git/What Is HTML5? https://play.google.com/store/books/details?id=mGx1MyjwM8AC …
+8:14 PM - 15 Aug 2017
 
 *  2017-08-14 #100DaysOfCode 226 #301DaysOfCode 14 #100DaysOfJavascript
+#100DaysOfCode 226 #301DaysOfCode 14 #100DaysOfJavascript
+tweaking scripts, reading Pro Git Chapter 2 and tiny link wins in html
 
 *  2017-08-13 #100DaysOfCode 225 #301DaysOfCode 13 #100DaysOfJavascript - deconstructing information architecture and free course on dev tools   https://www.udemy.com/learn-how-to-use-chrome-developer-tools/
 
