@@ -1,3 +1,8 @@
+*  2017-08-17 #100DaysOfCode 231 #301DaysOfCode 19 #100DaysOfJavascript
+Codeschool free weekend https://www.codeschool.com/free-weekend
+
+*  2017-08-18 #100DaysOfCode 230 #301DaysOfCode 18 #100DaysOfJavascript
+
 *  2017-08-17 #100DaysOfCode 229 #301DaysOfCode 17 #100DaysOfJavascript
 
 
