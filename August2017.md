@@ -1,4 +1,21 @@
-*  2017-08-17 #100DaysOfCode 231 #301DaysOfCode 19 #100DaysOfJavascript
+*  2017-08-25 #100DaysOfCode 237 #301DaysOfCode 25 #100DaysOfJavascript Firefox Nightly with Firebugs making circles with P5.JS
+
+
+*  2017-08-24 #100DaysOfCode 236 #301DaysOfCode 24 #100DaysOfJavascript - engine, runtime and call stack
+
+
+*  2017-08-23 #100DaysOfCode 235 #301DaysOfCode 23 #100DaysOfJavascript Exploring processing and p5.js http://lauren-mccarthy.com/teaching/Networked-Media …
+
+
+*  2017-08-22 #100DaysOfCode 234 #301DaysOfCode 22 #100DaysOfJavascript Learning JS Loving CSS thanks to @michaelmangial1 @codingartist_io #dailycssimages
+
+
+*  2017-08-21 #100DaysOfCode 233 #301DaysOfCode 21 #100DaysOfJavascript promises, the concept and use of Service Worker API in making offline experiences
+
+*  2017-08-20 #100DaysOfCode 232 #301DaysOfCode 20 #100DaysOfJavascript/css3/"HTML5: everyone's using it, nobody knows what it is"
+
+
+*  2017-08-19 #100DaysOfCode 231 #301DaysOfCode 19 #100DaysOfJavascript
 Codeschool free weekend https://www.codeschool.com/free-weekend
 
 *  2017-08-18 #100DaysOfCode 230 #301DaysOfCode 18 #100DaysOfJavascript
