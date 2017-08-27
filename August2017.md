@@ -1,3 +1,5 @@
+*  2017-08-27 #100DaysOfCode 239 #301DaysOfCode 27 #100DaysOfJavascript coding Web Service Worker to view site content offline  https://gipsi.github.io/
+
 *  2017-08-26 #100DaysOfCode 238 #301DaysOfCode 26 #100DaysOfJavascript P5.Js - created canvas drew red green and blue circles
 
 *  2017-08-25 #100DaysOfCode 237 #301DaysOfCode 25 #100DaysOfJavascript Firefox Nightly with Firebugs making circles with P5.JS
