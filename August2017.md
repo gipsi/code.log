@@ -1,4 +1,4 @@
-*  2017-08-28 #100DaysOfCode 239 #301DaysOfCode 27 #100DaysOfJavascript p5.js transparent rgb circles and Improvements to Web Service Worker test-page https://gipsi.github.io/
+*  2017-08-28 #100DaysOfCode 240 #301DaysOfCode 28 #100DaysOfJavascript p5.js transparent rgb circles and Improvements to Web Service Worker test-page https://gipsi.github.io/
 
 *  2017-08-27 #100DaysOfCode 239 #301DaysOfCode 27 #100DaysOfJavascript coding Web Service Worker to view site content offline  https://gipsi.github.io/
 
