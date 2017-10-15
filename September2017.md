@@ -90,10 +90,11 @@ http://gipsi.itbit.me/blog/menu.html
 </li>
 
 
-*  2017-09-23 #100DaysOfCode 266 #301DaysOfCode 54 #100DaysOfJavascript js theramin synth in Codecircle then iframe embed on blog
-http://gipsi.itbit.me/blog/menu.html
+
 <li>
 <a href="#cSeptember23"> Theramin  </a> 
+  *  2017-09-23 #100DaysOfCode 266 #301DaysOfCode 54 #100DaysOfJavascript js theramin synth in Codecircle then iframe embed on blog
+http://gipsi.itbit.me/blog/menu.html
 </li>
 
 <li>
@@ -102,26 +103,35 @@ http://gipsi.itbit.me/blog/menu.html
 
 <li>
 <a href="#cSeptember25">  </a> 
+  #100DaysOfCode 268 #301DaysOfCode 56 #100DaysOfJavascript coding today was all about #WebComponents and #Otters
+https://meowni.ca/posts/web-components-with-otters/ …
 </li>
 
 <li>
 <a href="#cSeptember26">   </a> 
+  #100DaysOfCode 269 #301DaysOfCode 57 #100DaysOfJavascript fix on pattern in music and code
+Context-smashing mistakes
 </li>
 
 <li>
 <a href="#cSeptember27">   </a> 
+  #100DaysOfCode 270 #301DaysOfCode 58 #100DaysOfJavascript watched pwa slideshare and coded blog markup http://gipsi.itbit.me/blog/nSeptember.html#nSeptember25 …
 </li>
 
 <li>
 <a href="#cSeptember28">   </a> 
+  #100DaysOfCode 271 #301DaysOfCode 59 #100DaysOfJavascript simplify, modularise,handle-errors to avoid callback hell http://callbackhell.com/ 
 </li>
 
 <li>
 <a href="#cSeptember29">   </a> 
+  #100DaysOfCode 272 #301DaysOfCode 60 #100DaysOfJavascript Dijkstra's "separation of concerns" one- and multiple-track minded simultaneously.
 </li>
 
 <li>
-<a href="#cSeptember30">   </a> 
+<a href="#cSeptember30">   </a>
+  
+ #100DaysOfCode 273 #301DaysOfCode 61 #100DaysOfJavascript coding offline, quick Github copy paste on wifi http://gipsi.github.io  
 </li>
 
 </ol>
