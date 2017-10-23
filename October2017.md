@@ -1,3 +1,15 @@
+#100DaysOfCode 295 #301DaysOfCode 83 #100DaysOfJavascript found some es6 harmony lessons to try http://learnharmony.org/#/?_k=dfgb5q 
+
+#100DaysOfCode 294 #301DaysOfCode 82 #100DaysOfJavascript 
+1.checking PRs on OS repos, bit of git
+2.html code did something unexpected
+
+#100DaysOfCode 293 #301DaysOfCode 81 #100DaysOfJavascript I've had a particular interest in how people comment code today
+
+#100DaysOfCode 292 #301DaysOfCode 80 #100DaysOfJavascript I've completed 5 Pull Requests for Hacktoberfest!
+
+#100DaysOfCode 291 #301DaysOfCode 79 #100DaysOfJavascript today's date button, css pseudo classes for nav list with hover links then GitHub
+
 #100DaysOfCode 290 #301DaysOfCode 78 #100DaysOfJavascript Yay!  made  @1stcontribution. https://goo.gl/66Axwe 
  #Hacktoberfest #OpenSource
 
